@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account of the late Presbyterian and Shaftburian-plot, seasonably discovered and now published for the satisfaction of all inquisitive and impartial readers</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60036</idno>
+            <idno type="STC">Wing S3539</idno>
+            <idno type="STC">ESTC R11163</idno>
+            <idno type="EEBO-CITATION">11910387</idno>
+            <idno type="OCLC">ocm 11910387</idno>
+            <idno type="VID">50781</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50781)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 512:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account of the late Presbyterian and Shaftburian-plot, seasonably discovered and now published for the satisfaction of all inquisitive and impartial readers</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Baldwyn,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:50781:1" rendition="simple:additions"/>
+            <head>A ſhort Account of the late Presbyterian and Shaftburian-Plot, ſeaſonably diſcovered, and now publiſhed for the ſa<g ref="char:EOLhyphen"/>tisfaction of all inquiſitive and impartial Readers.</head>
+            <p>TWO Houſes of <hi>Parliament</hi> having ſucceſſively paſſed the follow<g ref="char:EOLhyphen"/>ing <hi>Vote,</hi> with a <hi>Nemine contradicente; That they were fully ſatis<g ref="char:EOLhyphen"/>fied by the Proofs they had heard, that there now is, and for divers Years laſt paſt, hath been</hi> A HORRID AND TREASO<g ref="char:EOLhyphen"/>NABLE PLOT AND CONSPIRACY, <hi>contrived and carried on by thoſe of the Popiſh Religion, for the Murthering of His Majeſties Sacred Perſon, and for Subverting the Proteſtant Religion, and the an<g ref="char:EOLhyphen"/>tient and well-eſtabliſhed Government of this Kingdom:</hi> And having unanimouſly applied themſelves to the conſideration of the moſt ſpeedy Remedies, for the prevention of the eminent Dangers threatned by their reſtleſs Adverſaries; the Papiſts were hereby ſo much alarm'd, that they applied all their Strength, Po<g ref="char:EOLhyphen"/>licy and Induſtry, to raiſe a Jealouſie and Diviſion amongſt the Proteſtants; which they effected by the following means.</p>
+            <p>Mrs. <hi>Celliers,</hi> a reſtleſs Agent of the Romiſh Party, having made a ſtrict en<g ref="char:EOLhyphen"/>quiry amongſt the Catholick Priſoners in <hi>Newgate,</hi> if it were not poſſible to find a man of Courage amongſt them, and one who would reform? And ha<g ref="char:EOLhyphen"/>ving received that Character of <hi>Dangerfield,</hi> ſhe ſtrictly enquired into the cauſe of his Confinement, concerning his Religion, Parentage, Education and Travels, and finding him a fit <hi>Tool</hi> for her purpoſe, ſhe firſt encourageth him to purſue his Deſign in drawing up Articles againſt Capt. <hi>Richardſon,</hi> and thereupon gave him ſome Inſtructions for the ſame in Writing; this he performed ſo much to her content, that ſhe forthwith promiſed to uſe all poſſible means for his En<g ref="char:EOLhyphen"/>largement; which was ſpeedily procured for him, and his Fees paid by her. But no ſooner was he out of that Priſon, but he was Arreſted for Debt, and carried to the <hi>Counter;</hi> but by an <hi>Habeas Corpus</hi> was ſuddenly removed to the <hi>Kings-Bench,</hi> where he was allowed 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> 
+               <hi>per</hi> Week by Mrs. <hi>Cellier,</hi> and then put upon a Deſign of getting an acquaintance with one <hi>Stroud,</hi> in order to inva<g ref="char:EOLhyphen"/>lidate Mr. <hi>Bedlow</hi>'s Teſtimony: Which was firſt attempted by Drinking with him, then by diſſolving <hi>Opium</hi> in Brandy, and giving it him in the heat of Drink, then by drinking him upon the ſquare; by which means Mrs. <hi>Stroud</hi> diſcovered, <hi>Dangerfield</hi> wrote down and ſent to Mrs <hi>Cellier;</hi> the ſum of which was thus; May <hi>the</hi> 16th, 1679. STROUD <hi>told me, that about</hi> 15 <hi>years ſince he knew</hi> Bedloe, <hi>who was then in a mean condition; that when Mr.</hi> Oates <hi>and Mr.</hi> Bedloe <hi>came to view the Priſoners in the</hi> Kings-Bench, <hi>he ſpoke to Mr.</hi> Bedloe, <hi>and told him of ſome former paſſages; and that from that time he ſent him Money every Week.</hi> May 17th, Stroud <hi>told me, his wife in the Country had in a Cabinet divers Papers that concern'd Mr.</hi> Bedloe. <hi>The ſame day he told me, his allowance from Mr.</hi> Bedloe <hi>was the larger, becauſe he was to obſerve the motions of ſeveral Prieſts which were Priſoners there, and their Correſpondence.</hi> From theſe Paſſages they would have had <hi>Dangerfield</hi> to Swear, what <hi>Munſon</hi> had framed out of theſe Papers, <hi>viz.</hi> that <hi>Stroud</hi> told him, That one Mr. <hi>Johnſon,</hi> a Servant to the Earl of <hi>Shaftsbury,</hi> 
+               <note place="margin">Mr. <hi>Johnſon,</hi> a Servant of the Lord <hi>Shafts<g ref="char:EOLhyphen"/>bury</hi>'s charged for Suborna<g ref="char:EOLhyphen"/>tion, <hi>Danger<g ref="char:EOLhyphen"/>fields</hi> Narra<g ref="char:EOLhyphen"/>tive, <hi>p.</hi> 7.</note> had been with him divers times, to perſwade him to be a Witneſs for the King, againſt the Lords in the <hi>Tower;</hi> and in order to it, offer'd him a conſiderable Sum of Money; but that he demanded what he muſt Swear, and who it was muſt inſtruct him. Mr. <hi>Johnſon</hi> replied, <hi>You ſhall not want for that; and I am very glad to find you ſo ingenious.</hi> But hold, ſays <hi>Stroud,</hi> I will not perjure my ſelf for the world, <hi>&amp;c.</hi> After this, Mr. <hi>Dangerfield</hi> was allowed Money for the compounding his Debts, which amounted to 700 <abbr>l.</abbr> Which having done, he im<g ref="char:EOLhyphen"/>mediately marches to Mrs. <hi>Celliers</hi> Houſe, and from thence was conducted to <hi>Powis</hi>-houſe, and from thence in a little time to another Lodging; ſhortly after he was ſent into <hi>Buckingham</hi>-ſhire, to one Mr. <hi>Webs,</hi> at a place called <hi>Peterley,</hi>
+               <pb n="2" facs="tcp:50781:2" rendition="simple:additions"/>
+               <note place="margin">The Author of the <hi>Presby<g ref="char:EOLhyphen"/>terian</hi> Plot, <hi>p.</hi> 10.</note> with a Pacquet of Letters to one Mr. <hi>Jeane</hi> a Prieſt, who ſate up all Night to anſwer them, and then returned by him the ground-work of the <hi>Presbyterian-Plot,</hi> which was to this effect;</p>
+            <p>
+               <note place="margin">The <hi>Presby<g ref="char:EOLhyphen"/>terian</hi> Plot, <hi>p.</hi> 10.</note> 
+               <hi>Some ſtore of Pamphlets muſt be writ, and ſpread about the Town againſt the</hi> Preſ<g ref="char:EOLhyphen"/>byterians; <hi>perſons muſt be employed to go to Coffee-Houſes, and rail againſt the</hi> PRESBYTERIAN-<hi>Party; and if they meet with any that offer to contend, mat<g ref="char:EOLhyphen"/>ter of Treaſon or ſome ſuch thing may eaſily be laid to their charge, to have them ſecu<g ref="char:EOLhyphen"/>red; but there muſt be many perſons ſo employed: And it will be great Prudence, not to let them know one another; nor to let any one know more than his own part,</hi> &amp;c.</p>
+            <p>
+               <note place="margin">How this Plot was carried on by frequenting <hi>Coffee</hi>-houſes, and diſperſing Pamphlets, <hi>p.</hi> 16, 17.</note> This Plot was carried on by <hi>Dangerfield</hi> at <hi>Farrs Coffee-houſe,</hi> and by others at <hi>Procters, Mans, Garraways, Fords, Jonathans,</hi> and <hi>Combes</hi> Coffee-houſes, where they made it their buſineſs to ſpread abroad the rumour of a Plot a<g ref="char:EOLhyphen"/>mongſt the <hi>Presbyterians;</hi> and as for the diſperſing of Pamphlets and other Sedi<g ref="char:EOLhyphen"/>tious Books, <hi>Dangerfield</hi> was ſo diligent in that, that ſome he directed into the Country, to the Gentry there; others he ſent to little petty Coffee-houſes a<g ref="char:EOLhyphen"/>bout the Town; and ſome he would venture to drop in the Street, and in all Houſes where he could.</p>
+            <p>After this <hi>Dangerfield</hi> received from <hi>Nevel</hi> divers Papers, Pamphlets and Let<g ref="char:EOLhyphen"/>ters to tranſcribe, amongſt which were forty Liſts of Names, each Liſt con<g ref="char:EOLhyphen"/>taining about eight hundred Names; and a while after <hi>Dowdwell</hi> brings him Twenty ſeven Letters more, the Contents of one of which was, <hi>That their buſineſs went here on well, and that Commiſſions would be ſpeedily iſſued out, &amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">The Plot a<g ref="char:EOLhyphen"/>gainſt the <hi>Presbyterians</hi> how to be car<g ref="char:EOLhyphen"/>ried on &amp; pro<g ref="char:EOLhyphen"/>ved? <hi>p.</hi> 19.</note> Perſons were then to be employed to carry the Papers and Letters relating to this New-Plot, into all Parts of <hi>England,</hi> and ſome means or other uſed to lodge them in the Houſes of ſuch as were the moſt eminent of the <hi>Presbyterian</hi>-party: Then others were to obtain Warrants upon other pretences, to make ſearch in thoſe Houſes, and to get the perſons committed in whoſe houſes they were found.</p>
+            <p>
+               <note place="margin">The Impreſſi<g ref="char:EOLhyphen"/>ons of divers Coats of Arms to be engra<g ref="char:EOLhyphen"/>ven, <hi>p.</hi> 90.</note> A Pacquet of Letters were likewiſe ſent about this time to one <hi>Holder</hi> at <hi>Brvſſels,</hi> to acquaint him with the whole Deſign, and earneſty to deſire his good Advice in an affair of that weight; and in one Letter he was deſired to employ ſome ingenious perſon there, to cut and engrave the Impreſſions of divers Coats of Arms; the patterns had been taken in Wax from the Seals of the perſons to whom the Coats belonged (as <hi>Dangerfield</hi> believed) and were ſent over incloſed in a Letter, being faſtned with other Wax to the margent of it.</p>
+            <p>
+               <note place="margin">500 <abbr>l.</abbr> offered to kill the L. <hi>Shaftsbury,</hi> and why, <hi>p.</hi> 22, 23.</note> 
+               <hi>Dangerfield</hi> was after this offered 500 <abbr>l.</abbr> to kill the Earl of <hi>Shaftsbury,</hi> becauſe it was taken for granted, if they were rid of him, they ſhould find it no hard matter to bear down all the reſt of their Oppoſers. This Money was to be paid him by a <hi>Virginia</hi>-Merchant, when he heard of the Lord <hi>Shaftsbury</hi>'s Death, and ſhould receive a Note from <hi>Dangerfield,</hi> that the Money ſhould be paid to his uſe.</p>
+            <p>
+               <note place="margin">The <hi>Duke</hi> how to be per<g ref="char:EOLhyphen"/>ſwaded of a <hi>Presbyterian</hi> Plot, 8.</note> Advice was then given to <hi>Dangerfield</hi> to go forwards with all ſpeed, to ſet ſome Intrigue on foot againſt the <hi>Presbyterians;</hi> for the <hi>Duke</hi> being expected in Town, ſomething muſt be done to make His <hi>Royal Highneſs</hi> believe the <hi>Pres<g ref="char:EOLhyphen"/>byterians</hi> were carrying on a Deſign againſt the <hi>King and Government.</hi> In order to which, <hi>Dangerfield</hi> was commanded to uſe all the ſpeed he could, to find out ſome idle perſons, that appeared well in Apparel, and give them Money to go to the <hi>Coffee-houſes,</hi> and make enquiry of all the <hi>Clubs</hi> and <hi>Meetings</hi> that were a<g ref="char:EOLhyphen"/>bout the Town, and get the Names of ſuch as frequented them, and endeavour to learn how things went in all parts of the Town.</p>
+            <p>
+               <note place="margin">The <hi>Presbyte<g ref="char:EOLhyphen"/>rian<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Plot be<g ref="char:EOLhyphen"/>lieved by ſome, <hi>p.</hi> 30.</note> 
+               <hi>Dangerfield</hi> was now very buſie in viſiting moſt <hi>Coffee-houſes,</hi> who there found many perſons hot againſt the <hi>Presbyterians;</hi> ſome ſaying, the <hi>Plot</hi> was now moſt apparently diſcovered to be theirs.</p>
+            <p>
+               <hi>Dangerfield</hi> being ſent for to give the <hi>Duke</hi> an account of this New-Plot, he had the following Inſtructions given him:
+<list>
+                  <head>
+                     <note place="margin">An Abbrevia<g ref="char:EOLhyphen"/>tion of the <hi>Meal-Tub</hi> Plot, <hi>al.</hi> the <hi>Presbyterian</hi> Plot, <hi>p,</hi> 30, 31.</note> 
+                     <hi>Four Clubs or Meetings.</hi>
+                  </head>
+                  <item>Sir <hi>Robert Peyton</hi>'s, at the Kings-Head Tavern.</item>
+                  <item>Mr. <hi>Bennet</hi>
+                     <g ref="char:punc">▪</g>s, at the Green-Dragon.</item>
+                  <item>Sir <hi>Francis Clark</hi>
+                     <g ref="char:punc">▪</g>s, at the Sun-Tavern.</item>
+                  <item>Col. <hi>Blood</hi>'s, at <hi>Weſtminſter</hi>-Market.</item>
+               </list>
+            </p>
+            <pb n="3" facs="tcp:50781:2"/>
+            <p>The three firſt being the <hi>Council</hi>-Meetings, and the laſt the Meſſengers for the Countries at preſent; but when occaſion ſhall require, they ſhall be Field-Officers.</p>
+            <list>
+               <item>Mr. <hi>Goodings</hi> promiſe to ſupport <hi>D. M.</hi> if Baniſhed.</item>
+               <item>Major <hi>Alſop's</hi> promiſe to me for a <hi>Commiſſion.</hi>
+               </item>
+               <item>
+                  <hi>Friday</hi> the 12th of <hi>September, M.</hi> went to Sir <hi>Thomas Player.</hi>
+               </item>
+               <item>The manner of ſending Meſſengers to all parts of <hi>England.</hi>
+               </item>
+               <item>The manner of all their <hi>Meetings,</hi> and how they converſe with one another for the concurrence of matters.</item>
+               <item>The manner of their contributing, and to what purpoſe Money is raiſed.</item>
+               <item>The poſture they were in for a riſing if His <hi>Majeſty</hi> had died, and how they had a conſiderable <hi>Army</hi> poſted in and about the Town for that purpoſe.</item>
+               <item>The contrivance of the <hi>Bill</hi> againſt—</item>
+               <item>The deſign to riſe in the <hi>North,</hi> in order to joyn with an Army of <hi>Scots</hi> com<g ref="char:EOLhyphen"/>manded by—</item>
+            </list>
+            <p>
+               <hi>Goodine</hi>
+               <g ref="char:punc">▪</g>s and others accounts about their Government.</p>
+            <list>
+               <item>For Councel.
+<list>
+                     <item>Lord <hi>Hallifax,</hi>
+                     </item>
+                     <item>Lord <hi>Shaftsbury,</hi>
+                     </item>
+                     <item>Lord <hi>Radnor,</hi>
+                     </item>
+                     <item>Lord <hi>Essex,</hi>
+                     </item>
+                     <item>Lord <hi>Wharton,</hi>
+                     </item>
+                     <item>Duke of <hi>Buckingham</hi> and others</item>
+                  </list>
+               </item>
+               <item>Duke of <hi>Monmouth</hi> General.</item>
+               <item>Lieutenant Generals.
+<list>
+                     <item>Lord <hi>Grey</hi> of <hi>Warke,</hi>
+                     </item>
+                     <item>Lord <hi>Gerrard</hi> and his Son,</item>
+                     <item>Sir <hi>Thomas Armſtrong,</hi>
+                     </item>
+                     <item>Collonel <hi>Blood,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Sir <hi>William Waller</hi> and others Major Generals.</item>
+               <item>Collonel <hi>Manſel</hi> Quarter-Maſter General.</item>
+            </list>
+            <p>Moſt of the Field Officers meet at <hi>Blood</hi>
+               <g ref="char:punc">▪</g>s Club (as Sir <hi>William Waller,</hi> Coll. <hi>Manſel,</hi> Col. <hi>Brown,</hi> Col. <hi>Barrington,</hi> Col. <hi>Hart,</hi> Col. <hi>Jenks,</hi> Major <hi>Coult</hi>) and others at Cities and great Towns in the Countries.</p>
+            <p>The Detachment to be made from His Majeſties Guards, <hi>&amp;c.</hi> and alſo from the Trained-Bands and Militia both in City and Countrey.</p>
+            <p>
+               <hi>Alſop</hi> promiſeth to bring me to my Lord <hi>Shaftsbury,</hi> 
+               <note place="margin">L. <hi>Shaftbury</hi> to give <hi>Dan<g ref="char:EOLhyphen"/>gerfield</hi> a Commiſſion, <hi>p.</hi> 31.</note> to be employed for an Intelligencer, and to have his promiſe for a Commiſſion.</p>
+            <p>
+               <hi>Dangerfield</hi> acquaints the <hi>Duke</hi> with this <hi>Sham-Plot,</hi> and after that being intro<g ref="char:EOLhyphen"/>duced to the King, he had the following inſtructions given him by the Popiſh-party, <note place="margin">
+                  <hi>Dangerfield</hi> in<g ref="char:EOLhyphen"/>ſtructed to charge the <hi>Presbyterians</hi> with a Deſign to alter the Government, and bring in a Common<g ref="char:EOLhyphen"/>wealth.</note> 
+               <hi>viz.</hi> That he ſhould be ſure to lay all the burthen he could upon the <hi>Presbyterians,</hi> but particularly upon the Lord <hi>Gray,</hi> L. <hi>Howard</hi> of <hi>Eſcrick,</hi> D. of <hi>Monmouth,</hi> D. of <hi>Buckingham,</hi> Sir <hi>William Waller,</hi> Col. <hi>Blood,</hi> and ſome others, and that he ſhould explain to His Majeſty the meaning of the ſeveral Contents of the <hi>Paper</hi> he had before preſented to the <hi>Duke,</hi> and how the <hi>Presbyterians were re<g ref="char:EOLhyphen"/>ſolved to uſe their utmoſt endeavours for the ſubverting the preſent Government, and ſetting up a Commonwealth once more, and ſetting the D. of</hi> Monmouth <hi>in it;</hi> and that the L. <hi>Shaftsbury</hi> and other perſons of <hi>Quality</hi> were iſſuing out <hi>Commiſſions</hi> to that purpoſe, and had promiſed ſome to divers perſons.</p>
+            <p>This Story <hi>Dangerfield</hi> told the <hi>King,</hi> and not long after wrote His Majeſty a Letter to <hi>New-Market,</hi> 
+               <note place="margin">L. <hi>Shaftsbury</hi> to give out Commiſſions, <hi>p.</hi> 35.</note> That he had diſcovered a great correſpondence between the <hi>Presbyterians</hi> and the <hi>Dutch.</hi>
+            </p>
+            <pb n="4" facs="tcp:50781:3"/>
+            <p>
+               <note place="margin">L. <hi>Shaftsbury</hi> to be ſtab'd, <hi>p.</hi> 37.</note> 
+               <hi>Dangerfield</hi> now receives freſh Orders to murder the E. of <hi>Shaftsbury,</hi> in order <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unto is ſent to Father <hi>Sharp</hi> to Confeſs and Receive, which he did, and was by him conjured by all that was good, to uſe all poſſible ſpeed to Stab the ſaid <hi>Lord;</hi> for which purpoſe Mrs. <hi>Cellier</hi> furniſhed him with a <hi>French-Dagger;</hi> but he being ſtruck with a ſudden fear and horrour of mind, was utterly diſabled from doing the miſchief intended.</p>
+            <p>
+               <note place="margin">Lord <hi>Shafts<g ref="char:EOLhyphen"/>bury</hi> charged for promiſing <hi>Dangerfield</hi> an employ, <hi>p.</hi> 38.</note> 
+               <hi>Dangerfield,</hi> after this, was order'd to wait upon the King, to tell him, that the L. <hi>Shaftsbury</hi> had promiſed him an employ, and that he would take care of him; and after that, ſent a ſecond time to the L. <hi>Shaftsburies</hi> to make a ſecond attempt, and to frame a Diſcourſe to him to this effect. <hi>That he was now come with ſome<g ref="char:EOLhyphen"/>thing that very nearly concerned both his Lordſhips Honour and Perſon,</hi> viz. <note place="margin">For High-Treaſon, with Letters under his own hands to prove it, <hi>p.</hi> 38.</note> 
+               <hi>That if his Lordſhip ſhould be ſent for before the King and Council, and there have ſeveral accuſa<g ref="char:EOLhyphen"/>tions of High-Treaſon brought in againſt him, and thereupon be committed to the Tower, and that the evidence to maintain thoſe accuſations ſhould prove to be Letters written by his Lordſhip's own hands, that then he hoped his Lordſhip would believe he was his faith<g ref="char:EOLhyphen"/>ful Servant.</hi> This <hi>Dangerfield</hi> undertook, and was furniſhed a ſecond time with a <hi>Dagger,</hi> by Mrs <hi>Cellier,</hi> to diſpatch the L. <hi>Shaftsbury;</hi> but the former trouble and confuſion of mind ſeized him, ſo that he could not act the bloody Tragedy deſigned.</p>
+            <p>
+               <note place="margin">The Deſign a<g ref="char:EOLhyphen"/>gainſt Col. <hi>Manſell,</hi> how firſt contrived, <hi>p.</hi> 41.</note> This bloody deſign failing, Mr. <hi>Dangerfield</hi> was order'd to get an acquaintance with Col. <hi>Manſel,</hi> and to take him to a Tavern and drink ſmartly, and then take an opportunity to lodge Treaſonable Papers in ſome part of his Cloaths, and im<g ref="char:EOLhyphen"/>mediatly upon his pretence of having ſpoke Treaſon, call a <hi>Conſtable</hi> and have him apprehended and ſearch'd, and carry the Papers to the <hi>King</hi> and <hi>Council,</hi> and ſo have him Committed; Which, ſaith he, if I had done, the Plot had gone on, <note place="margin">What would have followed its taking ef<g ref="char:EOLhyphen"/>fect, <hi>p.</hi> 41.</note> and I was to have moved the <hi>King</hi> and <hi>Council</hi> to have impowred me to make ſearch in many other Gentlemens Lodgings and Houſes both in City and Countrey; but being afterwards adviſed rather to take Chambers, <note place="margin">How the De<g ref="char:EOLhyphen"/>ſign againſt Col. <hi>Manſel</hi> was acted, with <hi>Danger<g ref="char:EOLhyphen"/>field's</hi> being Diſcovered &amp; and Commit<g ref="char:EOLhyphen"/>ted, <hi>p.</hi> 42, 43, 44, 49.</note> where Colo<g ref="char:EOLhyphen"/>nel <hi>Manſel</hi> lodged, he found an opportunity of fixing the Treaſonable Papers behind the <hi>Colonels</hi> Beds-head; which being afterwards diſcovered by himſelf and the Cuſtom-houſe Officers, employed by him; Col. <hi>Manſel</hi> by his great Care and Prudence proved before the King and Council, that they were lodged (where found) by <hi>Dangerfield;</hi> and upon this proof a Warrant was made for his Com<g ref="char:EOLhyphen"/>mitment to <hi>Newgate,</hi> for forging of Letters importing <hi>High-Treaſon,</hi> and fixing the ſame privately at Mr. <hi>Manſel</hi>'s Chamber, to render him Guilty thereof with<g ref="char:EOLhyphen"/>out cauſe. After this, upon a full hearing of the ſeveral Informations and Ex<g ref="char:EOLhyphen"/>aminations, this was the reſult of the Council.</p>
+            <closer>
+               <dateline>Whitehal, <date>Novemb. 2. 1679.</date>
+               </dateline>
+               <note place="margin">The reſult of the Council upon hearing ſeveral Infor<g ref="char:EOLhyphen"/>mations and Examinations, with Mr. <hi>Dan<g ref="char:EOLhyphen"/>gerfield</hi>'s Infor<g ref="char:EOLhyphen"/>mation.</note> 
+               <hi>Mr.</hi> Thomas Dangerfield <hi>having been Examined, the 27th paſt, by the Lords of His Majeſties Privy-Council, concerning certain Dangerous and Treaſonable Papers ſeized in Mr.</hi> Roderick Manſels <hi>Chamber, which it appeared to their Lordſhips had been con<g ref="char:EOLhyphen"/>veyed thither, was thereupon by Order of the Board comitted to</hi> Newgate; <hi>And ha<g ref="char:EOLhyphen"/>ving ſince given in an Information to the Lord Mayor of</hi> London, <hi>of ſeveral Treaſonable Practices againſt His Majeſties Perſon and Government, and of his having been pre<g ref="char:EOLhyphen"/>vailed with by ſeveral of the Popiſh Religion, to counterfeit the above-mentioned Pa<g ref="char:EOLhyphen"/>pers and Letters, by which divers Noblemen and other Proteſtants were to have been brought under a Suſpicion of carrying on a Plot againſt His Majeſties Government,</hi> &amp;c.</closer>
+            <epigraph>
+               <q>Haec meminiſſe Juvat.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Rich. Baldwyn,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
